@@ -7,7 +7,7 @@ output: html_notebook
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(ISLR)
+library(arm)
 # add other libraries here
 ```
 
