@@ -1,0 +1,13 @@
+---
+title: "HW3 [Your Team Name Here]"
+author: "[Your Names Here]"
+date: "Due  February 10, 2017"
+output: html_notebook
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ISLR)
+# add other libraries here
+```
+
