@@ -1,5 +1,6 @@
 allowed_files = c("HW3.Rmd",
                   "HW3.pdf",
+                  "nes5200_processed_voters_realideo.dta",
                   "README.md",
                   "HW3_whitelist.R",
                   "wercker.yml")
