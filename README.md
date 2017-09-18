@@ -1,5 +1,3 @@
-[![wercker status](https://app.wercker.com/status/7a99034acc950e922e5ea9f282d786f0/s/master "wercker status")](https://app.wercker.com/project/byKey/7a99034acc950e922e5ea9f282d786f0)
-
 # HW3 Logistic Regression Getting Started
 
 Go to the github course site. You should have a repo called HW3_Team_X where the X is your team number or name. Click on the repo's name and then Click on Clone or Download. Copy the URL for the repo for the next step.
