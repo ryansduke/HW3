@@ -92,7 +92,6 @@ nes1992 = nes %>% filter(!is.na(black)) %>%
 
 14.  Evaluate and compare the different models you fit.  Consider coefficient estimates (are they stable across models) and standard errors (any indications of identifiability problems), residual plots and deviances.
 
- 
 
 15.  Compute the error rate of your model (see GH page 99) and compare it to the error rate of the null model.  We can define a function for the error rate as:
 ```{r error.rate, include=FALSE}

@@ -1,4 +1,4 @@
-# HW3 Logistic Regression Getting Started
+# HW3 Logistic Regression Getting Started  
 
 Go to the github course site. You should have a repo called HW3_Team_X where the X is your team number or name. Click on the repo's name and then Click on Clone or Download. Copy the URL for the repo for the next step.
 
