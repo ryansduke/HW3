@@ -126,8 +126,9 @@ x <- predict(logreg)
 y<- resid(logreg)
 binnedplot(x,y)
 
+
 #There does not seem to be anything systematic about the distribution of residuals in the binned residual plot.
-#The residuals appear to be randomly dispersed. They mostly fall between the gray confidence bands.
+#The residuals appear to be randomly dispersed. They mostly fall between the grey confidence bands.
 ```
 
 
